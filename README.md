@@ -39,4 +39,4 @@ Variables are read from variables.tf file. If not specified in that file, parame
 
 4. UI input (only supports String variables)
 
-Terraform related details : https://www.terraform.io/intro/getting-started/install.html 
+
